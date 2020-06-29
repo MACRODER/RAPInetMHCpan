@@ -1,10 +1,10 @@
 Package: RAPInetMHCpan
 Type: Package
-Title: an R API to netMHCpan and netMHCIIpan softwares for neural network prediction of peptide binders
+Title: an R API to netMHCpan and netMHCIIpan softwares for neural network prediction of peptides binding to MHC molecules
 Version: 0.1.0
 Author: Elmer A. Fernández
 Maintainer: The package maintainer <elmerfer@gmail.com>
-Description: The packahe facilitates the instalation of netMHCpan and netMHCIIpan softwares, providing versatility
+Description: The package facilitates the instalation of netMHCpan and netMHCIIpan softwares, providing versatility
     to the exploration of peptides results.
 Imports:
     ggplot2,
